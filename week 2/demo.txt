@@ -1,1 +1,15 @@
 
+	YouTube link 	Presentation Folder link 	TA Name	PMRF ID	Meeting Attendance
+Week 1	https://www.youtube.com/watch?v=sHbx4t2Zrbo	CS49 Doubt Session	Sahil Mishra	1403224	100
+Week 2	https://www.youtube.com/watch?v=1zCAJIK7zoo		Sahil Mishra	1403224	42
+Week 3	https://www.youtube.com/watch?v=1H7mm2UoJVM		Sahil Mishra	1403224	26
+Week 4	https://www.youtube.com/watch?v=6_gpUBoxr0o		Sahil Mishra	1403224	21
+Week 5	https://www.youtube.com/watch?v=clDACdinFQc		Sahil Mishra	1403224	17
+Week 6	https://www.youtube.com/watch?v=oZbY9Sg0rPE		Sahil Mishra	1403224	12
+Week 7	https://www.youtube.com/watch?v=5Wv5uBuey0c		Sahil Mishra	1403224	10
+Week 8	https://www.youtube.com/watch?v=V-Quj0Q7ReA		Sahil Mishra	1403224	11
+Week 9	https://www.youtube.com/watch?v=kHfd5hmr45Y		Sahil Mishra	1403224	13
+Week 10	https://www.youtube.com/watch?v=JPvo-BfPZ0s		Sahil Mishra	1403224	11
+Week 11	https://www.youtube.com/watch?v=8sPVGY0Zwcw		Sahil Mishra	1403224	10
+Week 12	https://www.youtube.com/watch?v=j7WOz9saWzg		Sahil Mishra	1403224	10
+Extra Session	https://www.youtube.com/watch?v=7ld-wQOIKsU		Sahil Mishra	1403224	6
